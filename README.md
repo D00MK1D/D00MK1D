@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Doom
-- 👀 I’m interested in Yes
-- 🌱 I’m currently learning No
-- 💞️ I’m looking to collaborate on AAAAAAAAAAHHHHHHHHHHHH
-- 📫 How to reach me, well, you can't... i guess...
+- 👋 `<e> I'm Doom  U+1F609 </e>`
+- 👀 `{$Interested.Text} = "game community projects";`
+- 🌱 `string Learning[] = "C#", "C++", "HTML", "CSS";` 
+- 💞️ `I’m looking to collaborate on game community projects`
+- 📫 `How to reach me, well, you can't... i guess...`
